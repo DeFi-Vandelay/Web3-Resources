@@ -21,6 +21,8 @@ A comprehensive collection of resources for Web3 investors and developers. This 
   - [Online Communities](Community-and-Networking/Online-Communities.md)
   - [Influencers and Thought Leaders](Community-and-Networking/Influencers-and-Thought-Leaders.md)
 
+For more information - read my article reviews of these tools, as well as other news, analysis & insights // https://medium.com/@defi-vandelay
+
 ## Investor Resources
 ### Market Analysis Tools
 - [Market Analysis Tools](Investor-Resources/Market-Analysis-Tools.md)
