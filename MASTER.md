@@ -47,3 +47,32 @@ Beosin Eagle Eye - Provides 24/7 security monitoring and real-time alerts for bl
 Chainalysis - Offers blockchain analysis and compliance tools to detect fraud and illicit activities 
 Safescan - Tool by Cyberscope for vetting project teams and analyzing wallet histories 
 
+
+## Top Centralized Exchanges
+
+Binance
+- Largest centralized exchange by trading volume, offering a wide range of cryptocurrencies and features
+
+Coinbase
+- Popular U.S.-based exchange known for its user-friendly interface and regulatory compliance
+
+KuCoin
+- Centralized exchange offering a wide range of altcoins and trading pairs  
+
+
+## Top Decentralized Exchanges on Main Blockchains
+
+| **Blockchain**       | **Top DEXs**                                |
+|----------------------|---------------------------------------------|
+| **Ethereum**         | 1. Uniswap  2. Curve Finance  3. SushiSwap  |
+| **Solana**           | 1. Raydium  2. Orca  3. Serum               |
+| **Binance Coin (BNB Chain)** | 1. PancakeSwap  2. Biswap  3. THENA  |
+| **Arbitrum**         | 1. Camelot  2. SushiSwap  3. Uniswap        |
+| **Avalanche**        | 1. Trader Joe  2. Pangolin  3. GMX          |
+| **Polygon**          | 1. QuickSwap  2. SushiSwap  3. Uniswap      |
+| **Base**             | 1. BaseSwap  2. Aerodrome  3. Uniswap       |
+| **TON**              | 1. DeDust  2. Ston.fi  3. Megaton Finance   |
+| **Cronos**           | 1. VVS Finance  2. MM Finance  3. Crodex    |
+| **Optimism**         | 1. Velodrome  2. Uniswap  3. SushiSwap      |
+
+
