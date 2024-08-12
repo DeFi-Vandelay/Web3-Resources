@@ -38,3 +38,12 @@ Augmento
 
 Messari
 - Includes social data alongside fundamental crypto research and analysis
+
+
+## Crypto Security Tools
+
+Hardware wallets (e.g. Ledger, Trezor) - Physical devices that store private keys offline for maximum security 
+Beosin Eagle Eye - Provides 24/7 security monitoring and real-time alerts for blockchain networks 
+Chainalysis - Offers blockchain analysis and compliance tools to detect fraud and illicit activities 
+Safescan - Tool by Cyberscope for vetting project teams and analyzing wallet histories 
+
