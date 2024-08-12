@@ -1,4 +1,6 @@
-# Top 20 list
+# WEB3 TOOLKIT - MASTER LIST
+
+## Crypto Price Tracking Tools
 
 Dextools - https://www.dextools.io/app/en
 - Real-time charts, historical data, and token information for decentralized exchanges (DEXs).
@@ -15,47 +17,24 @@ TradingView - https://www.tradingview.com
 Glassnode - https://www.glassnode.com
 - On-chain market intelligence and data analytics for crypto assets.
 
-Messari - https://www.messari.io
-- Crypto research, news, and market data aggregator with a focus on transparency.
 
-CryptoQuant - https://www.cryptoquant.com
-- On-chain data analysis and market signals for crypto traders and investors.
 
-Santiment - https://www.santiment.net
-- On-chain, social, and development data analysis for cryptocurrency markets.
+## Social Sentiment Analysis Tools
 
-Token Metrics - https://www.tokenmetrics.com
-- AI-driven crypto investment research and data analytics platform.
+The TIE
+- Tracks and analyzes tweets, news articles, and other social media content related to cryptocurrencies
+  
+Santiment
+- Offers data feeds on social media activity, developer behavior, and on-chain metrics
 
-Nansen - https://www.nansen.ai
-- Blockchain analytics and insights, specializing in on-chain data and smart money movements.
+LunarCrush
+- Provides social engagement metrics and influencer tracking for cryptocurrencies
 
-IntoTheBlock - https://www.intotheblock.com
-- AI and machine learning-based crypto market intelligence and analytics.
+CryptoMood
+- Uses AI to analyze news and social media sentiment across multiple languages
 
-LunarCrush - https://www.lunarcrush.com
-- Social media analytics and market sentiment for cryptocurrencies.
+Augmento
+- Offers real-time sentiment analysis and trend prediction for crypto assets
 
-Skew (Acquired by Coinbase) - https://www.coinbase.com/skew
-- Institutional-grade analytics for derivatives and spot markets.
-
-CoinMetrics - https://www.coinmetrics.io
-- On-chain data, market data, and network insights for cryptocurrencies.
-
-Bitquery - https://bitquery.io
-- Blockchain data provider offering APIs and analytics for crypto markets.
-
-CryptoCompare - https://www.cryptocompare.com
-- Market data aggregator, offering comprehensive analysis and comparison of crypto assets.
-
-Nomics - https://nomics.com
-- Cryptocurrency market cap and price data API with a focus on transparency.
-
-Altrady - https://www.altrady.com
-- All-in-one trading platform offering real-time analytics, portfolio management, and alerts.
-
-TokenSniffer - https://tokensniffer.com
-- Tool for sniffing out suspicious or scam tokens on decentralized exchanges.
-
-WhaleAlert - https://whale-alert.io
-- Real-time tracker of large transactions across major blockchains.
+Messari
+- Includes social data alongside fundamental crypto research and analysis
