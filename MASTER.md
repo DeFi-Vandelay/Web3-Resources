@@ -76,3 +76,9 @@ KuCoin
 | **Optimism**         | 1. Velodrome  2. Uniswap  3. SushiSwap      |
 
 
+## Crypto Automation Platforms
+
+Gelato Network: Gelato is a leading decentralized automation protocol for Ethereum and other EVM-compatible blockchains. It offers several key services:
+- Automate: This service enables developers to create automated workflows for smart contracts, similar to how Zapier works for web2 applications. It allows for the configuration of smart contract automation through a user interface, SDK, or smart contract itself.
+- Relay: This feature enables gasless transactions, allowing users to execute transactions without directly paying gas fees. This can significantly improve user experience by removing the friction of gas payments.
+- Web3 Functions: This service allows developers to connect smart contracts to any HTTP APIs, including price feeds and databases, without running their own backend infrastructure
